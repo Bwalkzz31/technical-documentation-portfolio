@@ -8,6 +8,14 @@ This repository includes documentation samples that demonstrate my ability to wr
 
 These documents were created as independent portfolio samples and do not contain confidential company, client, or proprietary information.
 
+## Repository Link
+
+Use this link to view or share this documentation portfolio:
+
+https://github.com/Bwalkzz31/technical-documentation-portfolio
+
+> Note: This repository is meant to be viewed as a GitHub documentation portfolio. It is not a GitHub Pages website, so the correct link is the GitHub repository link above.
+
 ## Documentation Samples
 
 ### Help Desk Metrics Dashboard Report
@@ -144,6 +152,12 @@ A technical report explaining the purpose, design, features, and workflow of an 
 The purpose of this portfolio is to show my ability to create professional documentation that can support IT teams, help desk teams, QA teams, and data review projects.
 
 Each document is written to be clear, organized, and easy to follow for both technical and non-technical users.
+
+## How to View the Documents
+
+Click any **View Document** link above to open or download the document from this repository.
+
+If a document does not preview directly in GitHub, select **Download** or **View raw** to open it in Microsoft Word.
 
 ## Contact
 
