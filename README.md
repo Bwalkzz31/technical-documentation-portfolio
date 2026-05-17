@@ -16,7 +16,7 @@ A support operations report covering ticket volume, resolution status, response 
 
 **Skills shown:** reporting, support metrics, ticket analysis, QA review, documentation
 
-[View Document](docs/Help%20Desk%20Metrics%20Dashboard%20Report.docx)
+[View Document](Help%20Desk%20Metrics%20Dashboard%20Report.docx)
 
 ---
 
@@ -26,7 +26,7 @@ A help desk SOP covering password resets, Wi-Fi issues, printer troubleshooting,
 
 **Skills shown:** troubleshooting, SOP writing, help desk workflows, escalation procedures
 
-[View Document](docs/IT%20Troubleshooting%20Standard%20Operating%20Procedure.docx)
+[View Document](IT%20Troubleshooting%20Standard%20Operating%20Procedure.docx)
 
 ---
 
@@ -36,7 +36,7 @@ A structured support guide for diagnosing VPN login issues, MFA problems, networ
 
 **Skills shown:** VPN troubleshooting, remote support, MFA support, technical documentation
 
-[View Document](docs/VPN%20Connectivity%20Troubleshooting%20Guide.docx)
+[View Document](VPN%20Connectivity%20Troubleshooting%20Guide.docx)
 
 ---
 
@@ -46,7 +46,7 @@ A guide explaining user account creation, access updates, password resets, MFA s
 
 **Skills shown:** account support, access management, password resets, MFA, security documentation
 
-[View Document](docs/User%20Account%20Management%20Guide.docx)
+[View Document](User%20Account%20Management%20Guide.docx)
 
 ---
 
@@ -56,7 +56,7 @@ A professional manual outlining remote support expectations, approved tools, sec
 
 **Skills shown:** remote support, user support procedures, secure access, communication workflows
 
-[View Document](docs/Remote%20Support%20Procedures%20Manual.docx)
+[View Document](Remote%20Support%20Procedures%20Manual.docx)
 
 ---
 
@@ -66,7 +66,7 @@ A troubleshooting guide covering connectivity checks, DNS issues, Wi-Fi problems
 
 **Skills shown:** networking basics, DNS troubleshooting, Wi-Fi support, technical problem-solving
 
-[View Document](docs/Network%20Troubleshooting%20Guide.docx)
+[View Document](Network%20Troubleshooting%20Guide.docx)
 
 ---
 
@@ -76,7 +76,7 @@ A security-focused policy covering password requirements, account protection, MF
 
 **Skills shown:** account security, password policy, MFA, access control, policy writing
 
-[View Document](docs/Password%20%26%20Account%20Security%20Policy.docx)
+[View Document](Password%20%26%20Account%20Security%20Policy.docx)
 
 ---
 
@@ -86,7 +86,7 @@ A collection of help desk-style knowledge base articles written for common user 
 
 **Skills shown:** knowledge base writing, user support, clear instructions, technical writing
 
-[View Document](docs/IT%20Knowledge%20Base%20Collection.docx)
+[View Document](IT%20Knowledge%20Base%20Collection.docx)
 
 ---
 
@@ -96,7 +96,7 @@ A guide covering incident identification, severity levels, escalation paths, doc
 
 **Skills shown:** incident response, escalation workflows, severity levels, IT operations
 
-[View Document](docs/Incident%20Response%20%2B%20Escalation%20Guide.docx)
+[View Document](Incident%20Response%20and%20Escalation%20Guide.docx)
 
 ---
 
@@ -106,7 +106,7 @@ A technical report explaining the purpose, design, features, and workflow of an 
 
 **Skills shown:** technical reporting, ticket systems, workflow design, IT support documentation
 
-[View Document](docs/IT%20Support%20Ticket%20System%20Technical%20Project%20Report.docx)
+[View Document](IT%20Support%20Ticket%20System%20Technical%20Project%20Report.docx)
 
 ---
 
